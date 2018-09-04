@@ -6,3 +6,4 @@ Slides for the following talks:
 - **Data Science Meetup Münster**: Talk "A survey of methods for model validation with applications in R" 2017-01-12
 - **useR 2017**: Lightning Talk "cutpointr: Improved and tidy estimation of optimal cutpoints" 2017-07-06
 - **Statistical Computing 2017**: Talk "The cutpointr package: Improved and tidy estimation of optimal cutpoints" 2017-07-24
+- **gmds 2018**: Talk "Beyond Empirical - Advanced Estimation Methods for Optimal Cutpoints" 2018-09-03
